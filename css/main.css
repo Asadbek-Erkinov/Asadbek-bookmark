@@ -64,6 +64,11 @@ a{
   display: inline-block;
   width: 540px;
   height: 292px;
+  
+}
+.title {
+  display: flex;
+  margin-top: 100px;
 }
 
 .title-text {
@@ -75,6 +80,8 @@ a{
 }
 
 .title-heading {
+  display: flex;
+  margin-top: 80px;
   color: #242A45;
   font-family: 'Times New Roman', Times, serif;
   font-size: 48px;
